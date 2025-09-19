@@ -1,0 +1,8 @@
+# Ignorar archivos compilados de Java
+*.class
+# Ignorar carpetas de NetBeans y VS Code
+nbproject/
+.vscode/
+# Ignorar archivos temporales
+*.log
+*.tmp
